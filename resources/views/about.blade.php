@@ -52,7 +52,7 @@
                         <div class="col-lg-5 col-md-5 col-sm-12">
                             <div class="banner-img-section position-relative">
                                 <figure class="banner-img2-figure">
-                                    <img src="assets/images/about-banner-img.png" alt="">
+                                    <img src="/assets/images/about-banner-img.png" alt="">
                                 </figure>
                             </div>
                         </div>
@@ -70,7 +70,7 @@
                 <div class="offer-section-box">
                     <div class="offer-section-inner">
                         <figure>
-                            <img src="assets/images/offer-section-img1.png" alt="" class="img-fluid">
+                            <img src="/assets/images/offer-section-img1.png" alt="" class="img-fluid">
                         </figure>
                     </div>
                     <h5>We’re here to help</h5>
@@ -81,7 +81,7 @@
                 <div class="offer-section-box">
                     <div class="offer-section-inner">
                         <figure>
-                            <img src="assets/images/offer-section-img2.png" alt="" class="img-fluid">
+                            <img src="/assets/images/offer-section-img2.png" alt="" class="img-fluid">
                         </figure>
                     </div>
                     <h5>Our Mission</h5>
@@ -93,11 +93,11 @@
                 <div class="offer-section-box">
                     <div class="offer-section-inner">
                         <figure>
-                            <img src="assets/images/offer-section-img3.png" alt="" class="img-fluid">
+                            <img src="/assets/images/offer-section-img3.png" alt="" class="img-fluid">
                         </figure>
                     </div>
                     <h5>Careers</h5>
-                    <p>Our team is made up of well trained professionals who have been properly vetted.</p>
+                    <p>Are you a passionate care giver?<br/>Join our team.<br/><br/></p>
                 </div>
             </div>
         </div>
@@ -122,14 +122,14 @@
                            
                             <a class="popup-vime">
                                 <figure class="mb-0">
-                                    <img src="assets/images/popup-video-img.png" style="cursor: pointer" alt="" class="img-fluid video-img rounded-40">
+                                    <img src="/assets/images/popup-video-img.png" style="cursor: pointer" alt="" class="img-fluid video-img rounded-40">
                                 </figure>
                             </a>
                             <figure class="position-absolute popup-top-figure">
-                                <img src="assets/images/video-section-top-img.png" alt="" class="img-fluid">
+                                <img src="/assets/images/video-section-top-img.png" alt="" class="img-fluid">
                             </figure>
                             <figure class="position-absolute popup-bottom-figure">
-                                <img src="assets/images/video-section-bottom-img.png" alt="" class="img-fluid">
+                                <img src="/assets/images/video-section-bottom-img.png" alt="" class="img-fluid">
                             </figure>
                     </div>
                 </div>

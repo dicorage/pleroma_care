@@ -385,6 +385,7 @@ h2 {
 .service-offer-section .service-inner .offer-img-content h5 {
   font-size: 26px;
   line-height: 30px;
+    margin-bottom: 48px;
 }
 .counter-section .counter-inner-box h5 {
   font-size: 53px;
@@ -1180,7 +1181,7 @@ h2 {
 .service-offer-section .service-inner .offer-img-content h5 {
   font-size: 26px;
   line-height: 30px;
-  margin-bottom: 5px;
+    margin-bottom: 48px;
 }
 .service-offer-section .service-inner .offer-img-content p {
   font-size: 14px;
@@ -1992,7 +1993,7 @@ h2 {
 .service-offer-section .service-inner .offer-img-content h5 {
   font-size: 22px;
   line-height: 26px;
-  margin-bottom: 8px;
+    margin-bottom: 48px;
 }
 .offer-img-content h5 {
   font-size: 24px;
@@ -2840,7 +2841,7 @@ h2 {
 .service-offer-section .service-inner .offer-img-content h5 {
   font-size: 22px;
   line-height: 24px;
-  margin-bottom: 5px;
+    margin-bottom: 48px;
 }
 .sencare-section .sencare-inner h5 {
   width: 284px;

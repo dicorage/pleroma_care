@@ -10,19 +10,19 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
+            <li @class(['nav-item', 'active' => request()->is('/')])>
                 <a class="nav-link text-decoration-none navbar-text-color index2-navlink"
-                href="/">Home</a>
+             href="/">Home</a>
             </li>
-            <li class="nav-item">
+            <li @class(['nav-item', 'active' => request()->is('about')])>
                 <a class="nav-link text-decoration-none navbar-text-color index2-navlink"
                     href="/about">About</a>
             </li>
-            <li class="nav-item">
+            <li @class(['nav-item', 'active' => request()->is('contact')])>
                 <a class="nav-link text-decoration-none navbar-text-color index2-navlink"
                     href="/contact">Contact</a>
             </li>
-            <li class="nav-item">
+            <li @class(['nav-item', 'active' => request()->is('faq')])>
                 <a class="nav-link text-decoration-none navbar-text-color index2-navlink"
                     href="#">FAQ</a>
             </li>

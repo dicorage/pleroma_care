@@ -1488,7 +1488,7 @@ a {
   font-weight: 400;
   color: var(--e-global-color-primary);
   text-align: center;
-  word-spacing: -5.1px;
+  word-spacing: 1px;
   margin-bottom: 72px;/**TODO: remove this**/
 }
 

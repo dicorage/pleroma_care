@@ -339,11 +339,14 @@
     <link href="/assets/css/owl.theme.default.min.css" rel="stylesheet" type="text/css"> 
 @endsection
 @section('css')
-    <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/assets/css/style.css">
-    <link rel="stylesheet" href="/assets/css/mobile.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css">
-    <link href="../../unpkg.com/aos%402.3.1/dist/aos.css" rel="stylesheet">
-    <link href="/assets/css/owl.carousel.min.css" rel="stylesheet" type="text/css">
-    <link href="/assets/css/owl.theme.default.min.css" rel="stylesheet" type="text/css"> 
+    <script src="https://code.jquery.com/jquery-1.12.1.min.js"></script>
+    <script src="/assets/js/animations.js"></script>
+    <script src="/assets/js/bootstrap.min.js"></script>
+    <script src="/assets/js/jquery-3.6.0.min.js"></script>
+    <script src="/assets/js/popper.min.js"></script>
+    <script src="/assets/js/custom-script.js"></script>
+    <script src="/assets/js/owl.carousel.js"></script>
+    <script src="../../unpkg.com/aos%402.3.1/dist/aos.js"></script>
+    <script src="/assets/js/text-animations.js"></script>
+    <script src="/assets/js/carousel.js"></script>
 @endsection
