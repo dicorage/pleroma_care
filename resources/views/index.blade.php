@@ -7,7 +7,7 @@
             <div class="col-lg-6 col-md-6 col-sm-12 d-md-block d-sm-none">
                 <div class="header-left d-table-cell align-middle">
                     <div class="phone-icon d-inline-block"><i class="fa-solid fa-phone-volume"></i></div>
-                    <p>For a free consultation:<a href="tel:+14167312502" class="text-decoration-none">+1 (416) 731-2502</a></p>
+                    <p>For a free consultation:<a href="tel:+18884257388" class="text-decoration-none">+1 (888) 425-7388</a></p>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12">
