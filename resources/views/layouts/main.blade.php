@@ -3,6 +3,7 @@
 
 
 <!-- Mirrored from html.designingmedia.com/sencare/index2.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 01 Aug 2023 07:42:48 GMT -->
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -27,6 +28,7 @@
     <meta name="theme-color" content="#ffffff">
     @yield('css')
 </head>
+
 <body>
     @yield('content')
     <!-- Footer -->
@@ -38,18 +40,14 @@
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <figure class="sencare-logo-footer sencare-logo1">
-                        <a class="navbar-brand mr-0" href="index-2.html"><img src="/assets/images/sencare-logo.png"
-                                alt="" class="img-fluid"></a>
+                        <a class="navbar-brand mr-0" href="index-2.html"><img src="/assets/images/sencare-logo.png" alt="" class="img-fluid"></a>
                     </figure>
                     <p class="footer-text">Copyright {{ date('Y') }}, Pleroma Care</p>
                     <div class="social-icons text-center">
                         <ul class="list-unstyled">
-                            <li><a href="#" class="text-decoration-none"><i
-                                        class="fa-brands fa-twitter social-networks"></i></a></li>
-                            <li><a href="#" class="text-decoration-none"><i
-                                        class="fa-brands fa-facebook-f social-networks"></i></a></li>
-                            <li><a href="#" class="text-decoration-none"><i
-                                        class="fa-brands fa-pinterest-p social-networks"></i></a></li>
+                            <li><a href="#" class="text-decoration-none"><i class="fa-brands fa-twitter social-networks"></i></a></li>
+                            <li><a href="#" class="text-decoration-none"><i class="fa-brands fa-facebook-f social-networks"></i></a></li>
+                            <li><a href="#" class="text-decoration-none"><i class="fa-brands fa-pinterest-p social-networks"></i></a></li>
                         </ul>
                     </div>
                 </div>
@@ -68,12 +66,12 @@
 
                         <li>
                             <a href="#" class="text-decoration-none footer-link-p">
-                               FAQ Page
+                                FAQ Page
                             </a>
                         </li>
                         <li>
                             <a href="/contact" class="text-decoration-none footer-link-p">
-                               Contact us
+                                Contact us
                             </a>
                         </li>
                     </ul>
@@ -113,8 +111,8 @@
                             </a>
                         </li>
                         <li>
-                            <a href="tel:+14167312502" class="text-decoration-none">
-                                +1 (416) 731 2502
+                            <a href="tel:+18884257388" class="text-decoration-none">
+                                +1 (888) 425-7388
                             </a>
                         </li>
                     </ul>
@@ -131,32 +129,26 @@
                         <div class="images-inner-box">
                             <ul class="list-unstyled mb-1">
                                 <li class="list-item d-inline-block">
-                                    <figure class="mb-0"><img src="/assets/images/footer-img1.png" alt="Snow"
-                                            class="img-fluid footer-imgs"></figure>
+                                    <figure class="mb-0"><img src="/assets/images/footer-img1.png" alt="Snow" class="img-fluid footer-imgs"></figure>
                                 </li>
                                 <li class="list-item d-inline-block">
-                                    <figure class="mb-0"><img src="/assets/images/footer-img2.png" alt="Snow"
-                                            class="img-fluid footer-imgs"></figure>
+                                    <figure class="mb-0"><img src="/assets/images/footer-img2.png" alt="Snow" class="img-fluid footer-imgs"></figure>
                                 </li>
                                 <li class="list-item d-inline-block">
-                                    <figure class="mb-0"><img src="/assets/images/footer-img3.png" alt="Snow"
-                                            class="img-fluid footer-imgs"></figure>
+                                    <figure class="mb-0"><img src="/assets/images/footer-img3.png" alt="Snow" class="img-fluid footer-imgs"></figure>
                                 </li>
                             </ul>
                         </div>
                         <div class="images-inner-box">
                             <ul class="list-unstyled">
                                 <li class="list-item d-inline-block">
-                                    <figure class="mb-0"><img src="/assets/images/footer-img4.png" alt="Snow"
-                                            class="img-fluid footer-imgs"></figure>
+                                    <figure class="mb-0"><img src="/assets/images/footer-img4.png" alt="Snow" class="img-fluid footer-imgs"></figure>
                                 </li>
                                 <li class="list-item d-inline-block">
-                                    <figure class="mb-0"><img src="/assets/images/footer-img5.png" alt="Snow"
-                                            class="img-fluid footer-imgs"></figure>
+                                    <figure class="mb-0"><img src="/assets/images/footer-img5.png" alt="Snow" class="img-fluid footer-imgs"></figure>
                                 </li>
                                 <li class="list-item d-inline-block">
-                                    <figure class="mb-0"><img src="/assets/images/footer-img6.png" alt="Snow"
-                                            class="img-fluid footer-imgs"></figure>
+                                    <figure class="mb-0"><img src="/assets/images/footer-img6.png" alt="Snow" class="img-fluid footer-imgs"></figure>
                                 </li>
                             </ul>
                         </div>
@@ -167,4 +159,5 @@
     </div>
     @yield('js')
 </body>
+
 </html>
