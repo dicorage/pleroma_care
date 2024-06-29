@@ -80,7 +80,7 @@
                         <i class="fa-solid fa-phone-volume"></i>
                     </div>
                     <h5>Phone</h5>
-                    <p>Phone: +1 (416) 731 2502</p>
+                    <p>Phone: +1 (888) 425-7388</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6 mb-lg-0 mb-md-0 mb-0">
