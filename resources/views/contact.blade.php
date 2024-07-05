@@ -70,8 +70,7 @@
                         <i class="fa-solid fa-location-dot"></i>
                     </div>
                     <h5>Address</h5>
-                    <p>132 Commerce Park Drive, Unit K Barrie, Ontario.
-                        L4N 0Z7</p>
+                    <p>31 Conair Parkway, Woodbridge. On. L4H 0S4, Canada</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6 mb-lg-0 mb-md-0 mb-3">
