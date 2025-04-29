@@ -314,6 +314,20 @@
                         </div>
                     </div>
                 </div>
+
+                <div class="service-inner mb-0">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-3 col-sm-6">
+                            <figure class="service-figure-mb">
+                                <img src="/assets/images/service-offer-section-img12.png" alt="" class="img-fluid">
+                            </figure>
+                            <div class="offer-img-content">
+                                <h5>Therapy</h5>
+                                {{-- <p>Duis aute irure dolor in reprehen voluptate velit esse cillum.</p> --}}
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
