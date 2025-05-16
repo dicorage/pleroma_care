@@ -8,7 +8,7 @@
                 <div class="col-lg-6 col-md-6 col-sm-12 d-md-block d-sm-none">
                     <div class="header-left d-table-cell align-middle">
                         <div class="phone-icon d-inline-block"><i class="fa-solid fa-phone-volume"></i></div>
-                        <p>For a free consultation:<a href="tel:+14167312502" class="text-decoration-none">+1 (416) 731-2502</a></p>
+                        <p>For a free consultation:<a href="tel:+18884257388" class="text-decoration-none">+1 (888) 425-7388</a></p>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12">
@@ -295,6 +295,19 @@
                             <div class="offer-img-content">
                                 <h5>Laundry</h5>
                                 {{-- <p class="mb-0">Duis aute irure dolor in reprehen voluptate velit esse cillum.</p> --}}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                 <div class="service-inner mb-0">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-3 col-sm-6">
+                            <figure class="service-figure-mb">
+                                <img src="/assets/images/service-offer-section-img12.png" alt="" class="img-fluid">
+                            </figure>
+                            <div class="offer-img-content">
+                                <h5>Therapy & Mental Health</h5>
+                                {{-- <p>Duis aute irure dolor in reprehen voluptate velit esse cillum.</p> --}}
                             </div>
                         </div>
                     </div>

@@ -322,7 +322,7 @@
                                 <img src="/assets/images/service-offer-section-img12.png" alt="" class="img-fluid">
                             </figure>
                             <div class="offer-img-content">
-                                <h5>Therapy</h5>
+                                <h5>Therapy & Mental Health</h5>
                                 {{-- <p>Duis aute irure dolor in reprehen voluptate velit esse cillum.</p> --}}
                             </div>
                         </div>
